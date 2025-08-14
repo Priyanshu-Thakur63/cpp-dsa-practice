@@ -2,8 +2,6 @@
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/Priyanshu-Thakur63/cpp-dsa-practice?color=green)
 ![GitHub repo size](https://img.shields.io/github/repo-size/Priyanshu-Thakur63/cpp-dsa-practice)
-![GitHub stars](https://img.shields.io/github/stars/Priyanshu-Thakur63/cpp-dsa-practice?style=social)
-![GitHub forks](https://img.shields.io/github/forks/Priyanshu-Thakur63/cpp-dsa-practice?style=social)
 
 A **topic-wise collection** of C++ programming and Data Structures & Algorithms practice solutions.  
 This repository is part of my **daily coding routine** to maintain **GitHub streaks**, strengthen problem-solving skills, and prepare for **interviews, contests, and hackathons**.
