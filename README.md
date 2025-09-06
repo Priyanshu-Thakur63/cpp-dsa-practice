@@ -13,17 +13,19 @@ This repository is part of my **daily coding routine** to maintain **GitHub stre
 | Folder | Description |
 |--------|-------------|
 | `01_Basics/` | Hello World, variables, loops, conditionals |
-| `02_Functions/` | Functions, recursion, parameter passing |
-| `03_Arrays/` | 1D & 2D arrays, operations, problems |
-| `04_Strings/` | String manipulation, algorithms |
-| `05_Pointers/` | Memory, pointers, references |
-| `06_OOP/` | Classes, objects, inheritance, polymorphism |
-| `07_STL/` | Vectors, maps, sets, algorithms |
-| `08_SearchingSorting/` | Binary search, sorting techniques |
-| `09_LinkedList/` | Singly, doubly, circular linked lists |
-| `10_Trees/` | Binary trees, BST, traversals |
-| `11_Graphs/` | Graph algorithms, BFS, DFS, shortest paths |
-| `12_DP/` | Dynamic programming problems |
+| `02_Loops/` | loops |
+| `03_Conditionals/` | conditionals |
+| `04_Functions/` | Functions, recursion, parameter passing |
+| `05_Arrays/` | 1D & 2D arrays, operations, problems |
+| `06_Strings/` | String manipulation, algorithms |
+| `07_Pointers/` | Memory, pointers, references |
+| `08_OOP/` | Classes, objects, inheritance, polymorphism |
+| `09_STL/` | Vectors, maps, sets, algorithms |
+| `10_SearchingSorting/` | Binary search, sorting techniques |
+| `11_LinkedList/` | Singly, doubly, circular linked lists |
+| `12_Trees/` | Binary trees, BST, traversals |
+| `13_Graphs/` | Graph algorithms, BFS, DFS, shortest paths |
+| `14_DP/` | Dynamic programming problems |
 | `README.md` | Main repo overview |
 
 ---
