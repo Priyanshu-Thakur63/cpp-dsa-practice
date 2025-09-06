@@ -12,7 +12,7 @@ This repository is part of my **daily coding routine** to maintain **GitHub stre
 
 | Folder | Description |
 |--------|-------------|
-| `01_Basics/` | Hello World, variables, loops, conditionals |
+| `01_Basics/` | Hello World, variables |
 | `02_Loops/` | loops |
 | `03_Conditionals/` | conditionals |
 | `04_Functions/` | Functions, recursion, parameter passing |
